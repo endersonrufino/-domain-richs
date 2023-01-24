@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ender\\.nuget\\packages\\": {},
+    "C:\\Users\\Enderson\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-      "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "packagesPath": "C:\\Users\\Enderson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ender\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Enderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

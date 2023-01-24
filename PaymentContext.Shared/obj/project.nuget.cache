@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V93PrMjjGmVyWpHQBhTDma+ZE/sTaHvBzUCNEqyV1EcmtNUCnaaayxj3LTOHH7/mebOJMWa8xqwzzXYv5+LbJg==",
+  "dgSpecHash": "pOYix/m5d6NJ5zwFk3unnoK+l3QynCEjxj+EUSWcDuQBP//YoRKJQVvUIF2nAzy0T1M1pail8KMWbwISc55iCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ender\\Desktop\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
