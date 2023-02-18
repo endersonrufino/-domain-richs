@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Entities;
 
@@ -16,6 +12,8 @@ public class Student : Entity
         Document = document;
         Email = email;
         _subscriptions = new List<Subscription>();
+
+        AddNotifications(name, document, email);
     }
 
     public Name Name { get; set; }

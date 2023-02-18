@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using PaymentContext.Shared.ValueObjects;
 
 namespace PaymentContext.Domain.ValueObjects
@@ -12,6 +8,11 @@ namespace PaymentContext.Domain.ValueObjects
         {
             FirtsName = firtsName;
             LastName = lastName;
+
+            if (string.IsNullOrEmpty(FirtsName))
+            {
+                AddNotification("Name.FirstName", "Nome inválido");
+            }
         }
 
         public string FirtsName { get; private set; }
