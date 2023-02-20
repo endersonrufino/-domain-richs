@@ -206,3 +206,4 @@ C:\Users\Enderson\documents\github\domain-richs\PaymentContext.Tests\obj\Debug\n
 C:\Users\Enderson\documents\github\domain-richs\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.pdb
 C:\Users\Enderson\documents\github\domain-richs\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\Users\Enderson\documents\github\domain-richs\PaymentContext.Tests\obj\Debug\net7.0\ref\PaymentContext.Tests.dll
+C:\Users\Enderson\documents\github\domain-richs\PaymentContext.Tests\bin\Debug\net7.0\Flunt.dll
