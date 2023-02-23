@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enderson\\Documents\\GitHub\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
+    "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enderson\\Documents\\GitHub\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enderson\\Documents\\GitHub\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Users\\Enderson\\Documents\\GitHub\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectPath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "packagesPath": "C:\\Users\\Enderson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enderson\\Documents\\GitHub\\domain-richs\\PaymentContext.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Enderson\\documents\\github\\domain-richs\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
